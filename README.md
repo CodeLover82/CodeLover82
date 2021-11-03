@@ -1,12 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC8FF&height=300&section=header&text=Think%20Different&fontColor=090707&fontSize=90)
 
-
 <h3 align="center"> 👋 Who Am I? 👋 </h3>
 <p align="center">
   I'm Hanyoung Choi, a growing developer. 🌱 <br>
   I want to be a person who gives you creativity. ✨
 </p>
+
 <br>
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-0A82FF?style=flat-square&logo=Java&logoColor=black" style="color:black"/>&nbsp
@@ -20,6 +21,10 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=QueryDSL&logoColor=white""/>&nbsp
 </p>
 
-</p>
+<br>
+<br>
+<br>                                                                                                     
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wiz9243">                                                                                                     
+                                                                                                     
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
