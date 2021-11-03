@@ -38,7 +38,6 @@
 </p>                                                                                                     
 
 <br>
-<br>
 <br>                                                                                                     
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wiz9243">      
 
