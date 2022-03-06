@@ -28,8 +28,8 @@
 
 <h3 align="center">📚 Team Project Link 📚</h3>
 <p align="center">
-  <a href="https://github.com/WhenWhenProject"><img src="https://img.shields.io/badge/-WhenWhen-FFB914?style=flat-square" style="color:black"/>&nbsp</a>
-  <a href="https://github.com/daedongbread"><img src="https://img.shields.io/badge/-WhenWhen-FFB914?style=flat-square" style="color:black"/>&nbsp</a>                          </p>                      
+  <a href="https://github.com/WhenWhenProject"><img src="https://img.shields.io/badge/-WhenWhen-FFB914?style=flat-square" style="color:black"/>&nbsp</a><br>
+  <a href="https://github.com/daedongbread"><img src="https://img.shields.io/badge/-daedongbread-FFa914?style=flat-square" style="color:black"/>&nbsp</a>                          </p>                      
 
 <br>
 <br>
