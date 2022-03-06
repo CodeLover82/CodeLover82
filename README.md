@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#9370DB&height=200&section=header&text=Think%20Different&fontColor=090707&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=9370DB&height=200&section=header&text=Think%20Different&fontColor=090707&fontSize=60)
 
 <h3 align="center"> 👋 Who Am I? 👋 </h3>
 <p align="center">
