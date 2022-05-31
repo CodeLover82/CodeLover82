@@ -9,10 +9,10 @@
 <br>
 
 <h3 align="center">📚 Career 📚</h3>
-<h4 align="center"> Hanyang University (from.2017) : major in Computer Software </h4>
-<h4 align="center"> Software Maestro(13th) : Backend Developer </h4>
-<h4 align="center"> Like Lion(9th) - helper : Backend Developer </h4>
-<h4 align="center"> Depromeet(10th) - refactoring : Backend Developer </h4>
+<h4 align="center"> Hanyang University (from.2017) : major in Computer Software 🌱 </h4>
+<h4 align="center"> Software Maestro(13th) : Backend Developer ✨ </h4>
+<h4 align="center"> Like Lion(9th) - helper : Backend Developer 🌱 </h4>
+<h4 align="center"> Depromeet(10th) - refactoring : Backend Developer ✨ </h4>
 
 <br>
 
