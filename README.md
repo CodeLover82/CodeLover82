@@ -8,6 +8,14 @@
 
 <br>
 
+<h3 align="center">📚 Career 📚</h3>
+<h4 align="center"> Hanyang University (from.2017) : major in Computer Software </h4>
+<h4 align="center"> Software Maestro(13th) : Backend Developer </h4>
+<h4 align="center"> Like Lion(9th) - helper : Backend Developer </h4>
+<h4 align="center"> Depromeet(10th) - refactoring : Backend Developer </h4>
+
+<br>
+
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-0A82FF?style=flat-square&logo=Java&logoColor=black" style="color:black"/>
