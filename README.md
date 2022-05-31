@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=9370DB&height=200&section=header&text=Think%20Different&fontColor=090707&fontSize=60)
 
-<h3 align="center"> 👋 Who Am I? 👋 </h3>
-
-<h4 align="center"> I'm Hanyoung Choi, a growing backend developer. 🌱 </h4>
-<h4 align="center"> I want to be a person who gives you creativity. </h4>
-
-<br>
-
 <h3 align="center">📚 Career 📚</h3>
 <h4 align="center"> Hanyang University (from.2017) : major in Computer Software 🌱 </h4>
 <h4 align="center"> Software Maestro(13th) : Backend Developer ✨ </h4>
