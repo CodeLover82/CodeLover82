@@ -47,8 +47,11 @@
   <br> 
   
   <img src="https://img.shields.io/badge/-MySQL-FF607F?style=flat-square&logo=MySQL&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-h2-blueviolet"/>
   
   <br>
+  
+  <img src="https://img.shields.io/badge/-EC2-important"/>
  
 </p>            
                                                                                      
